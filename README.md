@@ -33,4 +33,4 @@
 
 ## 📫 How to reach me  
 - **Email**: *maksimatsiuk456@gmail.com*
-- **Discord**: *s1ngapor*
+- **Discord**: *name: **s1ngapor* *id: **836877592287117323*

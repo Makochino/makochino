@@ -32,4 +32,4 @@
 
 ## 📫 How to reach me  
 - **Email**: *maksimatsiuk456@gmail.com*
-- **Discord**: *s1ngapor* or *836877592287117323*
+- **Discord**: *s1ngapor* 

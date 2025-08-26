@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Maksim  
 
 🎯 **Goal:** Become a Junior Python Backend Developer  
-📚 Currently learning **Python backend stack**: Django, APIs, Databases, Docker, DevOps tools.  
-💻 OS: Arch Linux (KDE Plasma, Wayland)  
+📚 Currently learning **Python backend stack**: Django, APIs, Databases, Docker, DevOps tools.    
 🌍 From Ukraine, 16 y.o.  
 
 ---

@@ -1,34 +1,52 @@
-# 👋 Hi, I'm Maksim
+<div align="center">
 
-🎯 **Goal:** Become a Python Backend Developer
-📚 Currently learning **Python backend stack**: FastAPI, SQL, SQLite, Docker
-🌍 From Ukraine, 17 y.o.
+# Hi there, I'm Maksim 👋
+
+🎯 Junior Python Backend Developer in progress
+🌍 Ukraine · 17 y.o. · Building in public
+
+</div>
 
 ---
 
-## 🛠 Tech Stack
+## 🙋 About Me
+
+- 🐍 Learning **Python backend** from scratch — seriously and consistently
+- 🔨 Currently at: **OOP, functions, file handling, SQLite**
+- 📅 Goal: first freelance job on Upwork in **4–5 months**
+- 💡 I build real projects at every step — not just tutorials
+
+---
+
+## 🛠 Current Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45" height="45" title="SQLite"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
 </p>
 
----
-
-## 📈 Learning Roadmap
-
-- [x] Python fundamentals — types, loops, strings, lists, tuples, dicts
-- [ ] OOP, functions, exceptions, modules
-- [ ] SQL + SQLite
-- [ ] REST APIs with FastAPI
-- [ ] PostgreSQL
-- [ ] Docker
-- [ ] Deploy to cloud
+**Coming soon:** FastAPI · PostgreSQL · Docker · Linux
 
 ---
 
-## 📫 How to reach me
+## 📈 Roadmap
 
-- **Email**: *maksimatsiuk456@gmail.com*
-- **Discord**: *s1ngapor*
+| Status | Topic |
+|--------|-------|
+| ✅ | Python basics — types, loops, strings, lists, tuples, dicts |
+| 🔄 | OOP, functions, exceptions, JSON, modules |
+| ⏳ | SQL + SQLite |
+| ⏳ | REST APIs with FastAPI |
+| ⏳ | PostgreSQL + Docker |
+| ⏳ | Deploy to cloud |
+| ⏳ | First freelance job 🎯 |
+
+---
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-maksimatsiuk456%40gmail.com-blue?style=flat&logo=gmail)](mailto:maksimatsiuk456@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-s1ngapor-7289da?style=flat&logo=discord)](https://discord.com)

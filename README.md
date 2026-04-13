@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Maksim
 
-🎯 **Goal:** Become a Junior Python Backend Developer
+🎯 **Goal:** Become a Python Backend Developer
 📚 Currently learning **Python backend stack**: FastAPI, SQL, SQLite, Docker
 🌍 From Ukraine, 17 y.o.
 

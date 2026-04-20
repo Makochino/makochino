@@ -1,61 +1,15 @@
-<div align="center">
+# Hey there! 👋
 
-# Hi, I'm Maksim 👋
+I'm **Maksym**, a Future Python backend developer from Ukraine.
 
-### Junior Python Backend Developer (in progress)
+I’m currently focused on learning backend development through practice and real projects.
 
-🌍 Ukraine • 17 y.o. • building things & breaking them
+My main stack right now is **Python**, **SQLite**, and **Git**, and I’m improving my understanding of **OOP** and core backend concepts.
 
-</div>
+I enjoy solving problems, building things step by step, and learning by actually writing code instead of only watching tutorials.
 
----
+You can find my projects on [portfolio website](https://makochino.github.io/)[GitHub], and also if you want to know more about what I’m currently working on you can check my [GitHub/Repos](https://github.com/Makochino?tab=repositories). 
 
-## 🚀 About Me
+## Contact
 
-I write Python, debug for hours, then realize it was a missing bracket.  
-Learning backend step by step and actually building things (not just watching tutorials).  
-Right now grinding **OOP, SQLite, and core backend concepts**.
-
----
-
-## 🛠 Tech
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p>
-  <a href="https://github.com/makochino">
-    <img src="https://img.shields.io/badge/GitHub-makochino-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:maksimatsiuk456@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-s1ngapor-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</p>
-
----
-
-## 🌐 More about me
-
-If you want to see what I'm building:
-
-<p>
-  <a href="https://makochino.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-⭐ trying to become someone who actually knows what he's doing
-
-</div>
+- Email: [maksimatsiuk456@gmail.com](mailto:maksimatsiuk456@gmail.com)

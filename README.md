@@ -8,7 +8,9 @@ My main stack right now is **Python**, **SQLite**, and **Git**, and I’m improv
 
 I enjoy solving problems, building things step by step, and learning by actually writing code instead of only watching tutorials.
 
-You can find my projects on my [portfolio website](https://makochino.github.io/), and also if you want to know more about what I’m currently working on you can check my [GitHub/Repos](https://github.com/Makochino?tab=repositories). 
+If you want to know what I’m currently working on you can check my [GitHub/Repos](https://github.com/Makochino?tab=repositories). 
+
+You can find my favorite projects hear: [portfolio website](https://makochino.github.io/) 
 
 ## Contact
 

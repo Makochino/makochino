@@ -10,7 +10,7 @@ I enjoy solving problems, building things step by step, and learning by actually
 
 If you want to know what I’m currently working on you can check my [GitHub/Repos](https://github.com/Makochino?tab=repositories). 
 
-You can find my favorite projects hear: [portfolio website](https://makochino.github.io/) 
+You can find my favorite projects hear [portfolio website](https://makochino.github.io/) 
 
 ## Contact
 

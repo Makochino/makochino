@@ -15,3 +15,4 @@ You can find my favorite projects hear [portfolio website](https://makochino.git
 ## Contact
 
 - Email: [maksimatsiuk456@gmail.com](mailto:maksimatsiuk456@gmail.com)
+- Discord: s1ngapor

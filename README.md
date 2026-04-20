@@ -1,24 +1,40 @@
 <div align="center">
 
-# Hi there, I'm Maksim 👋
+# Hi, I'm Maksim 👋
 
-🎯 Junior Python Backend Developer in progress
-🌍 Ukraine · 17 y.o. · Building in public
+### Junior Python Backend Developer in progress
+
+🌍 Ukraine • 17 y.o. • Building step by step
+
+<p align="center">
+  <a href="https://github.com/makochino">
+    <img src="https://img.shields.io/badge/GitHub-makochino-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:maksimatsiuk456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-maksimatsiuk456%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://makochino.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://discord.com">
+    <img src="https://img.shields.io/badge/Discord-s1ngapor-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🙋 About Me
+## 🚀 About Me
 
-- 🐍 Learning **Python backend** from scratch — seriously and consistently
-- 🔨 Currently at: **OOP, functions, file handling, SQLite**
-- 📅 Goal: first freelance job on Upwork in **4–5 months**
-- 💡 I build real projects at every step — not just tutorials
+I’m currently learning **Python backend development** and building my skills step by step.  
+Right now I’m focused on **OOP, functions, file handling, and SQLite**.  
+I prefer learning through **real projects and practice**, not only theory.  
+My goal is to grow into a strong backend developer and get my first real work opportunities in the near future.
 
 ---
 
-## 🛠 Current Stack
+## 🛠 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
@@ -28,25 +44,44 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
 </p>
 
-**Coming soon:** FastAPI · PostgreSQL · Docker · Linux
+### Currently working with
+- Python
+- SQLite
+- Git
+
+### Learning now
+- OOP
+- Functions
+- File handling
+- Backend fundamentals
+
+### Interested in next
+- FastAPI
+- PostgreSQL
+- Docker
+- Linux
 
 ---
 
-## 📈 Roadmap
+## 🎯 What I’m doing now
 
-| Status | Topic |
-|--------|-------|
-| ✅ | Python basics — types, loops, strings, lists, tuples, dicts |
-| 🔄 | OOP, functions, exceptions, JSON, modules |
-| ⏳ | SQL + SQLite |
-| ⏳ | REST APIs with FastAPI |
-| ⏳ | PostgreSQL + Docker |
-| ⏳ | Deploy to cloud |
-| ⏳ | First freelance job 🎯 |
+- Improving my Python fundamentals
+- Building small backend-style projects
+- Practicing problem solving and coding consistency
+- Preparing for more advanced backend tools and frameworks
 
 ---
 
 ## 📫 Contact
 
-[![Email](https://img.shields.io/badge/Email-maksimatsiuk456%40gmail.com-blue?style=flat&logo=gmail)](mailto:maksimatsiuk456@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-s1ngapor-7289da?style=flat&logo=discord)](https://discord.com)
+- **Email:** [maksimatsiuk456@gmail.com](mailto:maksimatsiuk456@gmail.com)
+- **Discord:** `s1ngapor`
+- **Portfolio:** [makochino.github.io](https://makochino.github.io/)
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile ⭐
+
+</div>
